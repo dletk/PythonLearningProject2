@@ -17,4 +17,6 @@ O | X | O
 ```
 
 4. The game should say the result (who is winner or draw) at the end of last move.
-5. (Extra) The game should ask whether user want to play again and start a new game.
+5. For the first version, on its turn, the machine should randomly choose an available cell.
+6. (Extra) For second version, the machine should choose cell based on some SIMPLE "intelligent strategy"
+7. (Extra) The game should ask whether user want to play again and start a new game.
